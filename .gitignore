@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.env
+*.pt
+!models/best.pt
