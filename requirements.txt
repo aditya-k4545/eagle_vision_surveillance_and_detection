@@ -9,3 +9,4 @@ Pillow
 matplotlib
 seaborn
 ipykernel
+cv2
