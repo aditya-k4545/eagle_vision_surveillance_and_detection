@@ -2,7 +2,7 @@
 
 Detects and counts vehicles in aerial images using oriented bounding boxes, and maps traffic density on a grid. A YOLO26-OBB model is trained on the DLR EAGLE dataset (converted to YOLO OBB format and tiled so small vehicles stay visible), with a Streamlit demo.
 
-**Live demo:** https://eaglevisionsurveillanceanddetection.streamlit.app/ 
+**Live demo:** https://eaglevisionproject.streamlit.app/
 
 ## Results
 
